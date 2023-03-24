@@ -9,7 +9,7 @@ Please be careful, and I hope you find something useful :)
 ### Do your own calibrations for: 
 - PID tuning, Z-Offset, extruder E-steps/rotation, 
 - InputShaper, BLTouch XY offset
-- Check stepper motor current. Stock: XYZ = 0.580, E = 0.650]
+- Check stepper motor current. Stock: XYZ = 0.580, E = 0.650
 
 ## Modifications - Hardware
 - BigTreeTech SKR Mini E3 Version 3.0
