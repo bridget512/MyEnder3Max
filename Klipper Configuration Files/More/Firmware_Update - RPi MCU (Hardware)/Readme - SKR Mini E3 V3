@@ -1,0 +1,22 @@
+//------------------------------------------------ //
+# Klipper Firmware for BigTreeTech SKR Mini E3 V3
+	Version: v0.12.0-99-g5e3daa6f
+	Compiled: 27 Jan 2024
+
+//------------------------------------------------ //
+# Usage:
+	Download "firmware.bin" from this directory
+	Copy "firmware.bin" to SDcard, insert into printer, wait a bit, restart.
+	DO NOT rename the .bin from firmware.bin
+
+//------------------------------------------------ //
+# Parameters set in "make klipperconfig settings" for this firmware:
+
+	Extra low-level condiguration: Enabled
+	Micro-controller Architecture: STMicroelectronics STM32
+	Processor model: STM32G0B1
+	Bootloadter offset: 8KiB
+	Clock Reference: 8Mhz
+	Communication Interface: USB on PA11/PA12
+	GPIO pins to set at micro-controller startup: unchecked
+	

@@ -1,0 +1,21 @@
+//------------------------------------------------ //
+// Building the micro-controller code
+// From: https://www.klipper3d.org/RPi_microcontroller.html#building-the-micro-controller-code
+// The following will update klipper to the most recent version to prevent version errors after software updates. 
+// This is the same procedure as the initial setup of klipper. It will NOT effect your configurations.
+//------------------------------------------------ //
+
+To compile the Klipper micro-controller code, start by configuring it for the "Linux process":
+	cd ~/klipper/
+	make menuconfig
+
+In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
+
+To build and install the new micro-controller code, run:
+	sudo service klipper stop
+	make flash
+	sudo service klipper start
+
+If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. 
+The following command will add the "pi" user to the tty group:
+	sudo usermod -a -G tty pi
