@@ -1,5 +1,7 @@
 # M4 Belted Z Modification - V1R1
 
+![alt text](https://github.com/bridget512/MyEnder3Max/blob/main/Modifications/BZ-E3M-V1/Progress%20Pictures/asmRear.jpg?raw=true)
+
 ## Components Used:
 - 2x Voron M4 Extruder Kits
     - Uses some of the parts (Bearings, some screws, 80t drive gear pulley and screws).
@@ -72,4 +74,10 @@ The following notes were taken when assembling the kit and will be used to make 
 
 ## Belt Used
 - 198.5mm - 6mm - GT2 Gates
+
+# Images
+![alt text](https://github.com/bridget512/MyEnder3Max/blob/main/Modifications/BZ-E3M-V1/Progress%20Pictures/bz1.png?raw=true)
+![alt text](https://github.com/bridget512/MyEnder3Max/blob/main/Modifications/BZ-E3M-V1/Progress%20Pictures/bz2.png?raw=true)
+![alt text](https://github.com/bridget512/MyEnder3Max/blob/main/Modifications/BZ-E3M-V1/Progress%20Pictures/bz3.png?raw=true)
+![alt text](https://github.com/bridget512/MyEnder3Max/blob/main/Modifications/BZ-E3M-V1/Progress%20Pictures/bz4.png?raw=true)
 
